@@ -1,0 +1,13 @@
+
+1-CLI Question 1= How do I create a hidden file or folder? 
+ (To create a hidden file or folder we write: mkdir .filename
+hidden file: touch .filename )
+ 1-2 How do I display it in the CLI? for showing them (ls -a) or(ls -la)
+2-question 2=How do I create multiple nested directories?
+ (mkdir -p ~ documents/hyf/week1/html/css )
+ 3-the answer is that( echo "first message"> newfile.text
+   echo "second message" >> newfile.text
+   cat newfile.text )
+
+ )
+ 
